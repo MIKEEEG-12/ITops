@@ -1,0 +1,58 @@
+
+[
+  {
+    "Asset_Name": "12th Gen Intel(R) Core(TM) i5-12400 (2.50 GHz)",
+    "Type": "Desktop",
+    "Serial_Number": "9FD1FBB8-A749-4305-8562-220C6B383FD8",
+    "Model": "Custom Build",
+    "Location": "Storage",
+    "Department": "IT",
+    "Status": "Available",
+    "Assigned_User": "Unassigned",
+    "Purchase_Date": "2024-01-15"
+  },
+  {
+    "Asset_Name": "HP LaserJet Pro M404dn",
+    "Type": "Printer",
+    "Serial_Number": "VNB3K03419",
+    "Model": "M404dn",
+    "Location": "Accounting",
+    "Department": "Finance",
+    "Status": "In Use",
+    "Assigned_User": "Shared",
+    "Purchase_Date": "2023-05-20"
+  },
+  {
+    "Asset_Name": "Dell Latitude 5420",
+    "Type": "Laptop",
+    "Serial_Number": "8J9K2L1",
+    "Model": "Latitude 5420",
+    "Location": "Sales Office",
+    "Department": "Sales",
+    "Status": "In Use",
+    "Assigned_User": "Sarah Sales",
+    "Purchase_Date": "2023-11-10"
+  },
+  {
+    "Asset_Name": "Cisco Catalyst 2960",
+    "Type": "Network",
+    "Serial_Number": "FOC12345678",
+    "Model": "2960-X",
+    "Location": "Server Room A",
+    "Department": "IT",
+    "Status": "In Use",
+    "Assigned_User": "Unassigned",
+    "Purchase_Date": "2022-03-15"
+  },
+  {
+    "Asset_Name": "Samsung 27\" Monitor",
+    "Type": "Monitor",
+    "Serial_Number": "CN4567890",
+    "Model": "LF27T350",
+    "Location": "HR Office",
+    "Department": "HR",
+    "Status": "In Use",
+    "Assigned_User": "HR Manager",
+    "Purchase_Date": "2024-02-01"
+  }
+]

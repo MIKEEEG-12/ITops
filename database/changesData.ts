@@ -1,0 +1,23 @@
+
+export const changesData = [
+  {
+    "title": "Core Switch Firmware Upgrade",
+    "description": "Upgrading the core switch in Building A to version 12.4 to patch security vulnerabilities.",
+    "reason": "Security Compliance",
+    "impact": "High",
+    "priority": "High",
+    "status": "Approved",
+    "scheduledDate": "2025-12-04",
+    "requesterName": "Alex Admin"
+  },
+  {
+    "title": "Accounting Software Patch",
+    "description": "Applying Q3 patches to the ERP system.",
+    "reason": "Bug Fixes",
+    "impact": "Medium",
+    "priority": "Medium",
+    "status": "Pending Approval",
+    "scheduledDate": "2025-12-10",
+    "requesterName": "Finance Lead"
+  }
+];
